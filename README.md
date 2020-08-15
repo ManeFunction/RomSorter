@@ -1,4 +1,4 @@
-**RomSorter**
+**rom-sorter**
 
 This util can sort ROM files for you, depending on the file extension within an archive (it use a first found file in the root folder).
 
