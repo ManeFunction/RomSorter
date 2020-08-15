@@ -6,4 +6,4 @@ For example, GoodGEN ROMs library combines games from Genesis and 32x platforms 
 
 Works only with .7z archives! (maybe, needs slight modifications to work with other formats, just not test it myself)
 
-**Built version for Windows can be found [HERE](https://github.com/ManeFunction/RomSorter/releases)!**
+**Built version for Windows can be found [HERE](https://github.com/ManeFunction/rom-sorter/releases)!**
